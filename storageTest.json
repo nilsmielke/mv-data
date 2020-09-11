@@ -1,0 +1,15 @@
+{
+	"news": [
+		{
+			"date": "23.02.2018",
+			"hl": "hallo news 1",
+			"text": "\n                        \n                    ",
+			"cta": "\n                        "
+		},
+		{
+			"date": "sdfsdf",
+			"hl": "sdfsdfsf",
+			"text": "sdfsdfsdfds"
+		}
+	]
+}
