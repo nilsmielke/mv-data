@@ -11,9 +11,8 @@
 			"hl": "Hallo Lasse",
 			"text": "<p>Test, Test, &hellip;</p>"
 		},
-		{},
-		{},
-		{},
-		{}
+		{
+			"date": "15.12.2020"
+		}
 	]
 }
