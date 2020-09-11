@@ -5,6 +5,9 @@
 			"hl": "hallo news 1",
 			"text": "<p><a href=\"https://www.frws.sr\" target=\"_blank\" rel=\"noopener\">Woahhh.</a></p>",
 			"cta": "\n                        "
+		},
+		{
+			"date": "15.10.2020"
 		}
 	]
 }
